@@ -2,34 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://github.com/snaraya/web/post/</loc>
+    <loc>https://snaraya.github.io/web/post/</loc>
     <lastmod>2022-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/snaraya/web/post/2022-06-10-prueba/</loc>
+    <loc>https://snaraya.github.io/web/post/2022-06-10-prueba/</loc>
     <lastmod>2022-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/snaraya/web/</loc>
+    <loc>https://snaraya.github.io/web/</loc>
     <lastmod>2022-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/snaraya/web/categories/</loc>
+    <loc>https://snaraya.github.io/web/categories/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://github.com/snaraya/web/post/2020-12-01-r-rmarkdown/</loc>
+    <loc>https://snaraya.github.io/web/post/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://github.com/snaraya/web/tags/plot/</loc>
+    <loc>https://snaraya.github.io/web/tags/plot/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://github.com/snaraya/web/categories/r/</loc>
+    <loc>https://snaraya.github.io/web/categories/r/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://github.com/snaraya/web/tags/r-markdown/</loc>
+    <loc>https://snaraya.github.io/web/tags/r-markdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://github.com/snaraya/web/tags/regression/</loc>
+    <loc>https://snaraya.github.io/web/tags/regression/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://github.com/snaraya/web/tags/</loc>
+    <loc>https://snaraya.github.io/web/tags/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url>
 </urlset>
