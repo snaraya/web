@@ -1,0 +1,10 @@
+---
+title: Prueba
+author: sole
+date: '2022-06-10'
+slug: []
+categories: []
+tags: []
+---
+
+¡Bienvenido!
