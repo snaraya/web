@@ -1,10 +1,23 @@
 ---
-title: Prueba
-author: sole
+title: "blogdown y hugo"
+author: "Soledad Araya"
 date: '2022-06-10'
 slug: []
-categories: []
-tags: []
+categories: ["R"]
+tags: ["R Markdown","Otros", "Tutorial"]
 ---
 
 ¡Bienvenido!
+
+Este es un ejemplo de cómo podría verse una página hecha con `blogdown` y lanzada a través de *Github Pages*. Si bien hay varias formas de hacer una página con `blogdown` y `hugo`, como *Netlify*, recomiendo hacerlo de la manera que más fácil te resulte a ti. Con ese objetivo en mente, presentaré dos (de las muchas otras) formas de hacer un blog o una página de presentación, y queda a tu criterio cuál usar.
+
+## Instalar blogdown y Hugo
+
+Esto instalará los paquetes que necesitaremos para hacer nuestra página web y para que `hugo` funcione. Siempre es bueno revisar si hay actualizaciones de los paquetes,
+
+```{r}
+install.packages("blogdown")
+blogdown::install_hugo()
+```
+
+## Crear un proyecto en Rstudio
